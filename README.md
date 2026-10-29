@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Yamkela Jaden (@YamkelaDev)
 
-🌍 **Chief Information Officer | Founder | Agritech Innovator | Cybersecurity Advocate**
+🌍 **Full-stack developer | Founder | Agritech Innovator | Cybersecurity Advocate**
 
 💡 Creating a better world for the future through fascinating ideas, technology, and sustainable solutions.
 
